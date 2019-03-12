@@ -1,0 +1,16 @@
+/*background image*/
+body, html {
+    height: 100%;
+    margin: 0;
+    background-image: url(https://images.pexels.com/photos/1192438/pexels-photo-1192438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+}
+
+.card {
+    background-color: rgba(78, 46, 42, 0.75);
+    color: silver;
+}
+
+#train-table {
+    color: silver;
+}
